@@ -172,4 +172,4 @@ const fn gen_white_pawn_attacks() -> [u64; 64] {
 
 ## Credits & License
 
-This crates is originally a fork of [`unroll`](https://crates.io/crates/unroll) by Joachim Enggård Nebel, licensed under the MIT License.
+This crates is originally a fork of [`const_for`](https://crates.io/crates/const_for) by Joachim Enggård Nebel, licensed under the MIT License.
