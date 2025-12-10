@@ -1,0 +1,14 @@
+[package]
+name = "unroll-lite"
+version = "0.1.0"
+edition = "2021"
+rust-version = "1.56"
+authors = ["Joachim Enggård Nebel", "Hantong Chen <cxwdyx620@gmail.com>"]
+categories = ["development-tools::build-utils", "no-std"]
+description = "Unroll loops in const contexts, declarative macro version."
+keywords = ["unroll", "const"]
+license = "MIT"
+readme = "README.md"
+repository = "https://github.com/hanyu-dev/unroll-lite"
+
+[dependencies]
